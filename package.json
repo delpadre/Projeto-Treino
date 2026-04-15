@@ -1,0 +1,16 @@
+{
+  "name": "projeto-treino",
+  "version": "1.0.0",
+  "description": "projeto treino do curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.5.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
